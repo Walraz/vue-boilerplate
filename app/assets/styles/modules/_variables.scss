@@ -1,0 +1,16 @@
+// Base
+$primary-color: #2196f3;
+$accent-color: #e91e63;
+$primary-font-color: #333;
+$primary-font-family: 'Roboto',
+sans-serif;
+// Buttons
+$default-button-background: none;
+$default-button-background-hover: hsla(0, 0%, 60%, .2);
+$default-button-color: rgba(0, 0, 0, .87);
+$primary-button-background: $primary-color;
+$primary-button-color: rgba(255, 255, 255, .87);
+$primary-button-background-hover: #1e88e5;
+$accent-button-background: $accent-color;
+$accent-button-color: rgba(255, 255, 255, .87);
+$accent-button-background-hover: #d81b60;
